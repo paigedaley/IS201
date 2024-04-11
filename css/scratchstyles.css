@@ -1,0 +1,62 @@
+#top{
+    text-decoration: underline;
+    text-align: center;
+}
+/* Paige's Travels */
+
+.emphasizedText{
+    font-style: italic;
+    color: rgb(109, 103, 103);
+    text-align: center;
+}
+/* controls the inside (1,2) */
+
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+ul{
+    list-style-position:inside;
+    text-align:center;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: center;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    position: center;
+}
+
+.link{
+    text-align: center;
+}
+
+.everything{
+    border: 5px solid black;
+    margin: 80px;
+    padding: 100px;
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tableau{
+    text-align: center;
+}
